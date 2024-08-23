@@ -1,2 +1,2 @@
-#Dogs For Dates!
+# Dogs For Dates!
 I wanted to create a fun little website about a fake company that rents dogs out to people who want a furry friend for an upcoming date. The website functions as a straightforward marketplace where admin users can upload available dogs for rent, and customers can browse and add dogs to their carts. While the current implementation is simple, focusing on uploading, displaying dogs, and basic cart functionality, I would like to expand it with more features in the future, such as cart management or more detailed dog profiles.
